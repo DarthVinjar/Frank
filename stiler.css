@@ -1,6 +1,6 @@
 h1{
     float: left;
-    margin-left: 25%;
+    margin-left: 15%;
     font-size: 300%;
     color: white;
 }
@@ -12,7 +12,8 @@ img{
 p{
     font-size: 200%;
     color: white;
-    margin-left: 40%;
+    float: center;
+    margin-left: 30%;
 }
 
 body{
