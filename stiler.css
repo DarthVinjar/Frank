@@ -1,0 +1,20 @@
+h1{
+    float: left;
+    margin-left: 25%;
+    font-size: 300%;
+    color: white;
+}
+
+img{
+    float: left;
+}
+
+p{
+    font-size: 200%;
+    color: white;
+    margin-left: 40%;
+}
+
+body{
+    background-color: black;
+}
