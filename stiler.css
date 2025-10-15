@@ -10,10 +10,12 @@ img{
 }
 
 p{
+    display: block;
     font-size: 200%;
     color: white;
-    float: center;
-    margin-left: 30%;
+    float: left;
+    margin-left: 3%;
+    width: 50%;
 }
 
 body{
